@@ -1,2 +1,2 @@
 # python_practice
-List of my Git and Python Projects
+List of my Git Commands and Python Practice
